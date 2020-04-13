@@ -1,0 +1,5 @@
+game/node_modules/
+game/platforms/
+game/plugins/
+game/www/app.bundle.js
+game/www/vendors.app.bundle.js
